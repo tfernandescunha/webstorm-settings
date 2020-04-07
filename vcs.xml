@@ -1,0 +1,81 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://sbr00ap0197.br.biz" />
+          <option name="userName" value="zyt5" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="tfernandes.cunha" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/we-started/roteiros-viagem-admin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://sbr00ap0197.br.biz/chatbots/chatbot-interno-br.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/guilhermegjr/ngx-gjr-lib.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="tfernandescunha" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://sbr00xs0089.br.biz/mfp/corsarius.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://sbr00xs0089.br.biz" />
+          <option name="userName" value="zyt5" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://sbr00ap0197.br.biz/apps-clientes/corsarius.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://sbr00ap0197.br.biz/apps-consumidor/mfp-premmia.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://premmia@dev.azure.com/premmia/Petrobras%20Premmia/_git/Petrobras%20Premmia" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev.azure.com" />
+          <option name="userName" value="tcunhasonda" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@ssh.dev.azure.com:v3/premmia/Petrobras%20Premmia/Petrobras%20Premmia" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/tfernandescunha/capacitor-firebase-analytics-events.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/heliandro/BRMarineUpdated.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="C:\Users\Thiago Cunha\WebstormProjects" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
+    <option name="PREFER_COMMIT_DATE" value="true" />
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
+      </list>
+    </option>
+  </component>
+</application>

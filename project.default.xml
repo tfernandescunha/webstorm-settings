@@ -1,0 +1,29 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="BookmarkManager">
+        <bookmark url="file://$USER_HOME$/Documents/Thiago-PC/Projetos/semanaOmniStack/backend/src/routes.js" description="const IncidentController = require('./controllers/..." line="3" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="ics" />
+      </component>
+      <component name="SaveActionSettings">
+        <option name="actions">
+          <set>
+            <option value="activate" />
+            <option value="activateOnShortcut" />
+            <option value="organizeImports" />
+            <option value="reformat" />
+          </set>
+        </option>
+        <option name="inclusions">
+          <set>
+            <option value="src/.*" />
+          </set>
+        </option>
+      </component>
+    </defaultProject>
+  </component>
+</application>
