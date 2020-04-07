@@ -1,0 +1,26 @@
+<application>
+  <component name="libraryTable">
+    <library name="stackdriver-errors-concat" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_stackdriver-errors-js@0.7.0_dist_stackdriver-errors-concat.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_stackdriver-errors-js@0.7.0_dist_stackdriver-errors-concat.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="webchat" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.botframework.com_botframework-webchat_latest_webchat.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.botframework.com_botframework-webchat_latest_webchat.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
