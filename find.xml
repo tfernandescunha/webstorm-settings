@@ -11,7 +11,6 @@
     <mask>*.sht</mask>
     <mask>*.ng</mask>
     <mask>*.ats</mask>
-    <mask>*.cjs</mask>
     <mask>*.js</mask>
     <mask>*.json</mask>
     <mask>*.HTML</mask>
@@ -26,6 +25,7 @@
     <mask>*.xml</mask>
     <mask>*.</mask>
     <mask>*</mask>
+    <mask>*.cjs</mask>
     <mask>*.ts</mask>
   </component>
 </application>
