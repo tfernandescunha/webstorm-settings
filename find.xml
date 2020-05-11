@@ -24,10 +24,10 @@
     <mask>*.</mask>
     <mask>*.cjs</mask>
     <mask>*.scss</mask>
-    <mask>*.html</mask>
     <mask>*.json</mask>
     <mask>*</mask>
     <mask>*.js</mask>
+    <mask>*.html</mask>
     <mask>*.ts</mask>
   </component>
 </application>
