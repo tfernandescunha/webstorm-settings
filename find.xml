@@ -26,8 +26,8 @@
     <mask>*.scss</mask>
     <mask>*.json</mask>
     <mask>*.js</mask>
-    <mask>*.html</mask>
     <mask>*.ts</mask>
+    <mask>*.html</mask>
     <mask>*</mask>
   </component>
 </application>
