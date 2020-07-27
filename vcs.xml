@@ -90,6 +90,10 @@
           <option name="url" value="https://github.com/guilhermegjr/enjoyt-devops.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://BRFullStack@dev.azure.com/BRFullStack/Portal%20de%20Notifica%C3%A7%C3%B5es%20BR/_git/Portal%20de%20Notifica%C3%A7%C3%B5es%20BR" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\tfern\WebstormProjects" />
