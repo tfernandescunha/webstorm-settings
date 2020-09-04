@@ -25,10 +25,10 @@
     <mask>*.cjs</mask>
     <mask>*.json</mask>
     <mask>*.js</mask>
-    <mask>*.scss</mask>
     <mask>*</mask>
     <mask>*.html</mask>
     <mask>*.html</mask>
+    <mask>*.scss</mask>
     <mask>*.ts</mask>
   </component>
 </application>
